@@ -1,5 +1,8 @@
-# Portafolio
+# Análisis Exploratorio de Datos de la Premier League
 
-## Jose Antonio Arela Sanca
+## Haremos un Análisis exploratorio sobre datos de la Premier League que tenemos guardados en un documento .csv, comenzaremos con la limpieza, seguiremos con el análisis y por último la visualización de dicha data, todo esto usando los siguientes librerias:
 
-### Este portafolio fue creado para compartir mi experiencia personal sobre las diferentes librerías de Python como numpy, pandas, matplotlib, seaborn, etc. Ademas ayudamos a nuevas personas que estén interesadas en el manejo y programacion de este idioma llamado Python.
+### Numpy
+### Pandas
+### matplotlib
+### seaborn
